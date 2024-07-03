@@ -47,7 +47,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My first milestone was assembling my build and running a test code in order to certify that the robot was able to move. I had to improvise a bit due to the screws and standoffs' sizes not aligning with the video tutorial I used to assemble my robot, however it did end up working despite the sizes slightly differing from the video. At this point, the robot is currently able to move in all directions, however it can’t detect obstacles nor follow a straight black line. My current future goals are to focus on coding the robot to follow a line and to be able to detect future obstacles that stand in its way.
+My first milestone was assembling my build and running a test code in order to certify that the robot was able to move. I had to improvise a bit due to the screws and standoffs' sizes not aligning with the video tutorial I used to assemble my robot, however it did end up working despite the sizes slightly differing from the video. At this point, the robot is currently able to move in all directions, however it can’t detect obstacles nor follow a black line. My current future goals are to focus on coding the robot to follow a black line and to be able to detect future obstacles that stand in its way.
 
 
 # Schematics 
