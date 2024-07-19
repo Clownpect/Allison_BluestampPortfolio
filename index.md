@@ -6,7 +6,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 |:--:|:--:|:--:|:--:|
 | Allison P | KIPP NYC College Prep | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](IMG_1216.HEIC)
+![Headstone Image](Line Following Robot Picture.png)
   
 # Final Milestone
 
