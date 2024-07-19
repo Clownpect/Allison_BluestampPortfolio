@@ -32,7 +32,7 @@ My final milestone consisted of me coding the robot to be able to adjust its spe
 
 # Schematics 
 
-Official Schematics.png
+![Headstone Image](Official Schematics.png)
 
 # Code
 
