@@ -31,7 +31,8 @@ My final milestone consisted of me coding the robot to be able to adjust its spe
   My first milestone was assembling my build and running a test code in order to certify that the robot was able to move. However before completing my actual build, I’ve done a slight simple practice with coding the LED to light on and off to obtain a bit of a reminder and just a better overall understanding of the Arduino and breadboard. In terms of assembling the robot, I had to improvise a bit due to the screws and standoffs' sizes not aligning with the video tutorial I used to assemble my robot, however it did end up working despite the sizes slightly differing from the video. My test code consists of a loop where my robot moves in all of the same directions on repeat. While, the robot is currently able to move in all directions, it currently can't follow a black line. My current future goals are to focus on coding the robot to follow a black line and to brainstorm more unique and new innovated ideas to add onto my build. 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+
+Official Schematics.png
 
 # Code
 
