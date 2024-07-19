@@ -17,9 +17,7 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOqU2E8lI2k?si=3vnF016dB5lMZfP9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My final milestone consisted of me coding the robot to be able to adjust its speed as it follows a black line with a remote control. This took me a while to complete due to the robot’s speed never actually adjusting. I kept thinking the answer towards this error was more complicated than it actually was, hence why I took longer than I had anticipated. However, the answer was as simple as the initial speed of the robot being in the void loop () function, causing the robot’s initial speed to become unchangeable. This moment definitely taught me that some solutions are simpler than one may think. During my overall time in this program, I’ve faced a lot of problems and even some doubts that I’ll be able to finish this project, however thanks to perseverance I was taught that anything was possible thanks to hard work and dedication. I hope to take my knowledge from BlueStamp to learn more about coding, so that I’m able to eventually implement that onto my future builds. 
 
@@ -69,5 +67,4 @@ Don't forget to place the link of where to buy each component inside the quotati
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Project Guide](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 
