@@ -180,6 +180,6 @@ void stopMove() {
 | SunFounder Ultimate Starter Kit | Main Build | $69.99 | <https://www.amazon.com/SunFounder-Compatible-Tutorials-Including-Controller/dp/B0B778L1DZ/ref=sr_1_1?crid=3JQTX3SPFIY9Z&dib=eyJ2IjoiMSJ9.D9LrCZJnua_keVMLJz2FWi87-vYq5Z0c0hghVjdTqVV5SxTVgutlUut8NIgJpkDha5RIUUEOd8ZL_9-liu4TuIX3Y5c9E3mrmlKMD_2d9cnuKu55yBqRD35FcNSR2oUIVkT7byKksfuqXVAx34A8gUuPMYKaM3Jepu1QA3uOutR5sR0O3bugifITwp4OocPwYE4ZDNZaCae7Y3Ydd5zuneo_8PLiYwbdyVH9QvcGEwg.-iuZvwFJywFFRggszeNpXLuAEE8nPtLKbqmhVUOfLc0&dib_tag=se&keywords=sunfounder+3+in+1+starter+kit+for+arduino+uno&qid=1718980379&sprefix=3+in+1+ard%2Caps%2C120&sr=8-1">  </a> |
 
 # Other Resources/Examples
-- [Line Following Guide]([https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_line_track.html))
-- [Remote Control Guide]([[https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_line_track.html)](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_remote_control.html))
+- [Line Following Guide](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_line_track.html)
+- [Remote Control Guide](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_remote_control.html)
 
