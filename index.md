@@ -1,6 +1,6 @@
 # Line Following Robot
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
+All types of robots are unique with different goals in mind. My original goal was to just have it follow a black line; however, I then came up with another innovative idea by also adding a remote control, which can adjusts the robot's speed as it follows a black line. I'm glad to report: I did just that.   
 
 | **Name** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
